@@ -10,6 +10,8 @@ public class github {
 		System.out.println("this is github   rrrrrrrr");
 		
 		System.out.println("This is GitHUb Update");
+		
+		System.out.println("plz update github");
 	}
 	}
 
